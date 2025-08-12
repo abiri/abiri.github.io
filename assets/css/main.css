@@ -3224,6 +3224,36 @@
 			margin-right: auto;
 		}
 
+		/* Work */
+		#work b {
+			color: #f32853 !important;
+		}
+
+		#work .feature-grid .feature .image {
+			width: 30%;
+		}
+
+		#work	.feature-grid .feature .image img {
+			display: inline;
+			max-width: 90%;
+		}
+
+		#work	.feature-grid .feature .content ul {
+			max-width: 70%;
+		}
+
+		#work	.feature-grid .feature .content li::marker {
+			color: #f32853 !important;
+		}
+
+		#work	.feature-grid .feature:nth-child(odd) .content ul {
+			float: right;
+		}
+
+		#work .feature-grid .feature {
+			width: 90%;
+		}
+
 		/* Research */
 		#research a {
 			color: #f32853 !important;
@@ -3234,8 +3264,8 @@
 		}
 
 		#research	.feature-grid .feature .image img {
-				display: inline;
-				max-width: 90%;
+			display: inline;
+			max-width: 90%;
 		}
 
 		#research .feature-grid .feature {
