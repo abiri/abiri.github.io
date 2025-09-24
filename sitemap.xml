@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://abiri.github.io/</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/cv_biri_andreas.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/theses/abiri_msc_thesis.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/theses/abiri_semester_thesis_1.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/summaries/year_1/Analysis_Zusammenfassung.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/summaries/year_1/KompA_Zusammenfassung.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/summaries/year_1/LinAlg_Zusammenfassung.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/summaries/year_1/NuS_Zusammenfassung.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/summaries/year_1/TechMech_Zusammenfassung.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/summaries/year_2/AnalysisIII_Zusammenfassung.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/summaries/year_2/ElectronicCircuits_Summary.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/summaries/year_2/EFUW_Zusammenfassung.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/summaries/year_2/PhysikII_Zusammenfassung.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/summaries/year_2/SemiconductorDevices_Summary.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/summaries/year_2/SigSysI_Zusammenfassung.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/summaries/year_2/SigSysII_Summary.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/summaries/year_2/TikI_Zusammenfassung.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/summaries/year_2/TikII_Zusammenfassung.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/summaries/year_3/CommunicationNetworks_Summary.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/summaries/year_3/CommunicationSystems_Summary.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/summaries/year_3/CommunicationDetectionTheory_Summary.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/summaries/year_3/DiscreteEventSystems_Summary.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/summaries/year_3/EmbeddedSystems_Summary.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/summaries/year_3/Regelsysteme_Zusammenfassung.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/summaries/year_3/ZSSV_Zusammenfassung.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/summaries/master/AdvancedComputerNetworks_Summary.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/summaries/master/CryptographicProtocols_Summary.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/summaries/master/FundamentalsMobileComm_Summary.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/summaries/master/HardwareSoftwareCodesign_Summary.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/summaries/master/IA&amp;CV_Summary.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/summaries/master/IML_Summary.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/summaries/master/NetworkSecurity_Summary.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://abiri.github.io/download/summaries/master/SecurityWirelessNetworks_Summary.pdf</loc>
+  <lastmod>2025-09-24T20:52:47+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+
+</urlset>
