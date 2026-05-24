@@ -3229,6 +3229,20 @@
 			color: #f32853 !important;
 		}
 
+		#work .current-header {
+			display: flex;
+		}
+
+		#work .current-header .column {
+			flex: 1;
+			flex-wrap: wrap;
+		}
+
+		#work .current-header .image img {
+			max-width: 15%;
+			margin: auto;
+		}
+
 		#work .feature-grid .feature .image {
 			width: 30%;
 		}
